@@ -1,0 +1,18 @@
+{
+    "name": "hicham/breeze-side-bar",
+    "description": "Laravel Breeze Side Bar",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hicham\\BreezeSideBar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hicham Gaddari"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
